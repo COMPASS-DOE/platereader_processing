@@ -1,0 +1,31 @@
+date,tray,notes,analysis,dilution,letter,1,2,3,4,5,6,7,8,9,10,11,12
+7/18/23,1,,Fe2,1,A,2 mM,2 mM,redox-046 water,redox-047 water,redox-048 water,redox-049 water,redox-050 water,redox-051 water,redox-052 water,redox-053 water,redox-054 water,redox-055 water
+,,20 uL extract + 20 uL water + 100 uL ferrozine ,Fe2,1,B,1 mM,1 mM,redox-056 water,redox-057 water,redox-058 water,redox-059 water,redox-060 water,,,,,
+,,,Fe2,,C,0.5 mM,0.5 mM,,,,,,,,,,
+,,,Fe2,1,D,0.25 mM,0.25 mM,redox-046 HCl,redox-047 HCl,redox-048 HCl,redox-049 HCl,redox-050 HCl,redox-051 HCl,redox-052 HCl,redox-053 HCl,redox-054 HCl,redox-055 HCl
+,,,Fe2,1,E,0.125 mM,0.125 mM,redox-056 HCl,redox-057 HCl,redox-058 HCl,redox-059 HCl,redox-060 HCl,,,,,
+,,,Fe2,,F,0.0625 mM,0.0625 mM,,,,,,,,,,
+,,,Fe2,,G,0.03125 mM,0.03125 mM,,,,,,,,,,
+,,,Fe2,,H,0 mM,0 mM,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+date,tray,,,dilution,,1,2,3,4,5,6,7,8,9,10,11,12
+7/18/23,2,20 uL extract + 20 uL ascorbic + 100 uL ferrozine ,Fe_total,1,A,2 mM,2 mM,redox-046 water,redox-047 water,redox-048 water,redox-049 water,redox-050 water,redox-051 water,redox-052 water,redox-053 water,redox-054 water,redox-055 water
+,,,Fe_total,1,B,1 mM,1 mM,redox-056 water,redox-057 water,redox-058 water,redox-059 water,redox-060 water,,,,,
+,,,Fe_total,,C,0.5 mM,0.5 mM,,,,,,,,,,
+,,10 uL extract + 10 uL 0.5M HCl + 20 uL ascorbic + 100 uL ferrozine ,Fe_total,,D,0.25 mM,0.25 mM,skip,skip,skip,skip,skip,skip,skip,skip,skip,skip
+,,,Fe_total,,E,0.125 mM,0.125 mM,skip,skip,skip,skip,skip,,,,,
+,,,Fe_total,,F,0.0625 mM,0.0625 mM,,,,,,,,,,
+,,skip,Fe_total,2,G,0.03125 mM,0.03125 mM,redox-046 HCl skip,redox-047 HCl skip,redox-048 HCl skip,redox-049 HCl skip,redox-050 HCl skip,redox-051 HCl skip,redox-052 HCl skip,redox-053 HCl skip,redox-054 HCl skip,redox-055 HCl skip
+,,skip,Fe_total,2,H,0 mM,0 mM,redox-056 HCl skip,redox-057 HCl skip,redox-058 HCl skip,redox-059 HCl skip,redox-060 HCl skip,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+date,tray,,,dilution,,,,3,4,5,6,7,8,9,10,11,12
+7/18/23,3,Diluted by 70uL from Tray 2 Row G & H with 70uL of 0.5M HCl,Fe_total,4,A,,,redox-046 HCl,redox-047 HCl,redox-048 HCl,redox-049 HCl,redox-050 HCl,redox-051 HCl,redox-052 HCl,redox-053 HCl,redox-054 HCl,redox-055 HCl
+,,,Fe_total,4,B,,,redox-056 HCl,redox-057 HCl,redox-058 HCl,redox-059 HCl,redox-060 HCl,,,,,
+,,,Fe_total,,C,,,,,,,,,,,,
+,,,Fe_total,,D,,,,,,,,,,,,
+,,,Fe_total,,E,,,,,,,,,,,,
+,,,Fe_total,,F,,,,,,,,,,,,
+,,,Fe_total,,G,,,,,,,,,,,,
+,,,Fe_total,,H,,,,,,,,,,,,
